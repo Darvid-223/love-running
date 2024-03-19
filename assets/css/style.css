@@ -374,7 +374,7 @@ main {
 
     /* Gallery */
     #photos {
-        columns: 4;
+        column-count: 4;
     }
 }
 
